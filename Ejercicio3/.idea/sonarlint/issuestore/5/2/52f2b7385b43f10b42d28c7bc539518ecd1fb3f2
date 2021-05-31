@@ -1,0 +1,6 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èŞ8œ¶…œ/
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(»—ÑÀşÿÿÿÿ8œ¶…œ/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ôÓÎ¯8œ¶…œ/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ°Ÿşÿÿÿÿ8‘œ¶…œ/

@@ -1,0 +1,61 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÑ´ç
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£³íàüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡”‘¯şÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(ÒÑ´ç8×â¬‚œ/
+N
+java:S1197"8Move the array designator from the variable to the type.(ÒÑ´ç
+Q
+java:S6212"/Declare this local variable with "var" instead.(£³íàüÿÿÿÿ8Úâ¬‚œ/
+S
+java:S1197"8Move the array designator from the variable to the type.(£³íàüÿÿÿÿ
+Q
+java:S6212
+"/Declare this local variable with "var" instead.(üèÚ³úÿÿÿÿ8Üâ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(€Ù­ò8àâ¬‚œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(·úÇÓûÿÿÿÿ8ââ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(õÿìí8ãâ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(Ş¬­ô8åâ¬‚œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ËÜ©çüÿÿÿÿ8åâ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(•ÕåĞ8æâ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(ä¼ñ˜8çâ¬‚œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(Ú‡î¨úÿÿÿÿ8èâ¬‚œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(ƒ±ÇÊ8éâ¬‚œ/
+S
+java:S11971"8Move the array designator from the variable to the type.(ÄçÎøÿÿÿÿ
+J
+java:S62122"/Declare this local variable with "var" instead.(üáÓúÿÿÿÿ
+E
+java:S62123"/Declare this local variable with "var" instead.(Ñ·½À
+<
+java:S11254"'Remove the unnecessary boolean literal.(Š‰¥V
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ö‹Õ
+N
+java:S1197<"8Move the array designator from the variable to the type.(¿Ï¨†
+D
+java:S6212="/Declare this local variable with "var" instead.(÷…»]
+E
+java:S6212>"/Declare this local variable with "var" instead.(Ñ·½À
+<
+java:S1125?"'Remove the unnecessary boolean literal.(Š‰¥V
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(ŠÂ‡
+S
+java:S1197G"8Move the array designator from the variable to the type.(ÉÕê€ÿÿÿÿÿ
+J
+java:S6212I"/Declare this local variable with "var" instead.(ıÜñ üÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ç¶¼¡ùÿÿÿÿ
+S
+java:S1197Q"8Move the array designator from the variable to the type.(Ğ¶®ûÿÿÿÿ
+J
+java:S6212S"/Declare this local variable with "var" instead.(ıÜñ üÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(§ìÓ™

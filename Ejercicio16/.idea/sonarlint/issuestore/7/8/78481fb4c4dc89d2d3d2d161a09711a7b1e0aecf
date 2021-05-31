@@ -1,0 +1,33 @@
+
+€
+java:S1192"^Define a constant instead of duplicating this literal "La persona es mayor de edad? " 3 times.(³È–­ıÿÿÿÿ8©­›„œ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒ¤€ùÿÿÿÿ8“„œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(¥µÙ“şÿÿÿÿ8¢“„œ/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(‰ÓÀå8¨“„œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹òö²8©“„œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(Ì¿ø×8©“„œ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(õè´8©“„œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(ÀŒ‘ü8ª“„œ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ì¬ÏD8ª“„œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ÔùÃ¼üÿÿÿÿ8«“„œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ÿè§8«“„œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ØĞÊ„üÿÿÿÿ8«“„œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(ØÃÜ¡8¬“„œ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(İµÕÎüÿÿÿÿ8¬“„œ/
+L
+java:S6212"/Declare this local variable with "var" instead.(Ø’…Ò8­“„œ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³È–­ıÿÿÿÿ8¯“„œ/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(³ô‡£8¯“„œ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¦×é²ıÿÿÿÿ8°“„œ/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Óä‹ü8°“„œ/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¯’Å½8±“„œ/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¤™¹Áşÿÿÿÿ8±“„œ/
+>
+java:S1116$"Remove this empty statement.(¤™¹Áşÿÿÿÿ8±“„œ/

@@ -1,0 +1,20 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒ¤€ùÿÿÿÿ
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultado".( ±Ññ8äÕ…œ/
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "aleatorio".(¡û—„8åÕ…œ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ë÷É8ìÕ…œ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú„ô8íÕ…œ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¯áÖöşÿÿÿÿ8îÕ…œ/
+C
+java:S1125"(Remove the unnecessary boolean literals.( ±Ññ8ïÕ…œ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æù°Ô8ñÕ…œ/
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¡û—„8òÕ…œ/
+O
+java:S6212"/Declare this local variable with "var" instead.(‹şõØÿÿÿÿÿ8óÕ…œ/
+X
+java:S1197"8Move the array designator from the variable to the type.(‹şõØÿÿÿÿÿ8óÕ…œ/
+M
+java:S1144"2Remove this unused private "comprobarSexo" method.(²±ñº8õÕ…œ/

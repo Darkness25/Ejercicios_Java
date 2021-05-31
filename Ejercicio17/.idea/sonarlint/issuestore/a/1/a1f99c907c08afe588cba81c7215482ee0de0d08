@@ -1,0 +1,25 @@
+
+z	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(Ãº­ıÿÿÿÿ8ïùìœ/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úê÷Ûúÿÿÿÿ8ïùìœ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÀÀÜùÿÿÿÿ
+8
+java:S3626$"Remove this redundant jump.(ÉŠ©ƒ8ôùìœ/
+8
+java:S3626("Remove this redundant jump.(ÉŠ©ƒ8ôùìœ/
+Q
+java:S6212	"/Declare this local variable with "var" instead.(úê÷Ûúÿÿÿÿ8æòòƒœ/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(úê÷Ûúÿÿÿÿ8öùìœ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(æî‘Ëøÿÿÿÿ8èòòƒœ/
+L
+java:S6212"/Declare this local variable with "var" instead.(´¼ˆö8éòòƒœ/
+L
+java:S6212"/Declare this local variable with "var" instead.(¼îƒ8éòòƒœ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ûïŠ®üÿÿÿÿ8êòòƒœ/
+X	java:S125!"<This block of commented-out lines of code should be removed.(Ö¶½8ùùìœ/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(²…´€8ûùìœ/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ıÒ¦û8ûùìœ/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ú“™…8üùìœ/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ÂûÆèÿÿÿÿÿ8üùìœ/

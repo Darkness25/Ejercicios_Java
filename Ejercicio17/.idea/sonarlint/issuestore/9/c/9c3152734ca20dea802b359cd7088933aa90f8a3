@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÀÀÜùÿÿÿÿ
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(à•Å8µãÆœ/
+O
+java:S1144="3Remove this unused private "comprobarColor" method.(«îÃ8·ãÆœ/
